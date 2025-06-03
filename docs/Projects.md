@@ -1,5 +1,11 @@
 # Projects
 
+[README](README.md)
+
+[README](./README.md)
+
+[Mint Notes](Projects/Mint Notes.md)
+
 [Mint Notes](Projects/Mint Notes.md ':ignore')
 
 [Mint Notes](Projects/Mint Notes.md ':target=_blank')
