@@ -15,3 +15,7 @@
 
 
 <a href="Projects/Mint Notes.md" title="title">Mint Notes</a>
+
+[mint-notes](mint-notes.md)
+
+[somt](Projects/something.md)
