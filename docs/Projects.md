@@ -4,7 +4,7 @@
 
 [README](./README.md)
 
-[Mint Notes](./Projects/Mint Notes.md)
+[Mint Notes](Mint Notes.md)
 
 [Mint Notes](Projects/Mint Notes.md ':ignore')
 
